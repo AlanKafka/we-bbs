@@ -12,5 +12,13 @@ web-bbs采用前后端分离，基于SpringBoot和Vue以及相关技术栈开发
 
 #### 本项目的展示：
 
+![https://github.com/AlanKafka/we-bbs/blob/master/home.png](https://github.com/AlanKafka/we-bbs/blob/master/home.png)
 
+![https://github.com/AlanKafka/we-bbs/blob/master/code.png](https://github.com/AlanKafka/we-bbs/blob/master/code.png)
+
+![https://github.com/AlanKafka/we-bbs/blob/master/article.png](https://github.com/AlanKafka/we-bbs/blob/master/article.png)
+
+![https://github.com/AlanKafka/we-bbs/blob/master/newpost.png](https://github.com/AlanKafka/we-bbs/blob/master/newpost.png)
+
+![https://github.com/AlanKafka/we-bbs/blob/master/userinfo.png](https://github.com/AlanKafka/we-bbs/blob/master/userinfo.png)
 
