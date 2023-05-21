@@ -4,7 +4,7 @@ web-bbs采用前后端分离，基于SpringBoot和Vue以及相关技术栈开发
 
 本前端项目用的技术有：Vue3、axios、vue-router、wangeditor（富文本编辑器），v-md-editor（markdown编辑器），[Ant-design-vue](https://www.antdv.com/docs/vue/introduce-cn/)(组件库)、pinia。
 
-本项目的后端开源地址在:
+本项目的后端开源地址在: [前端链接](https://github.com/AlanKafka/Web-bbs-Server)
 
 
 
